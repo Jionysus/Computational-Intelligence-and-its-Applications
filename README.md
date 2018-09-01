@@ -1,1 +1,1 @@
-# Computational-Intelligence-and-its-Applications
+# Course Project
